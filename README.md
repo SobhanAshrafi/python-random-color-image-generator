@@ -11,4 +11,8 @@ this python code can creat two kind of image:
 
 
 well to do first one you should only run the main code.
-but to do second one you need to uncomment line x in the main codeand then run it.
+but to do second one you need to uncomment line 25 in the main code and then run it.
+
+
+the result folder contains the generated images from every two approach.
+@a
