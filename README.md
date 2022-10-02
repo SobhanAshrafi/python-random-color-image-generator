@@ -27,8 +27,7 @@ but to do second one you need to uncomment line 25 in the main code and then run
 
 ### 1- first result
 
-![image](https://github.com/SobhanAshrafi/python-random-color-image-generator/blob/1d5b314d95e31ba046a4699969f1566039918633/result/image%20-%20random%20color%20per%20line.jpg)
-{:height=250 width=250}
+
 
 
 ### 1- second result 
