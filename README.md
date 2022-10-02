@@ -28,7 +28,10 @@ but to do second one you need to uncomment line 25 in the main code and then run
 ### 1- first result
 
 
+<img src="./result/image - random color per line.jpg" width="250" height="250" >
 
 
 ### 1- second result 
 
+
+<img src="./result/image - random color per pixel.jpg" width="250" height="250" >
