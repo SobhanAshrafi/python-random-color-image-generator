@@ -9,7 +9,7 @@ random.seed()
 random_color_generator = lambda : ( random.randrange(0,255), random.randrange(0,225), random.randrange(0,255) )
  
 
-print(__name__)
+
 if __name__ == '__main__':
 
     # creat new image
