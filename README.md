@@ -3,11 +3,11 @@
 
 
 
-#### this python code can creat two kind of image:
+#### this python code can create two kind of image:
 
-        1- can creat images contain lines with random colors
+        1- can create images contain lines with random colors
 
-        2- can creat images with random color pixels (more interesting)
+        2- can create images with random color pixels (more interesting)
 
 
 well to do first one you should only run the main code.
